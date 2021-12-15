@@ -40,13 +40,13 @@ export default function Page() {
           bgImage="/images/wall.png"
           id={styles.home_hero}>
           <p>
-            WP&nbsp;Engine’s Headless WordPress Framework includes this example
-            project, the{' '}
-            <a href="https://github.com/wpengine/faustjs#wordpress-plugin">
-              headless WordPress plugin
+            Herp derp a derp derp 
+           project, the{' '}
+            <a href="https://www.reddit.com/r/cryptocurrency">
+              Link to place
             </a>
             ,{' '}
-            <a href="https://github.com/wpengine/faustjs">headless packages</a>,
+            <a href="https://www.reddit.com/r/ireland">Irish Stuff</a>,
             and{' '}
             <a href="https://faustjs.org/docs/tutorial/dev-env-setup">
               tutorials
