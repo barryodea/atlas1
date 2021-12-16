@@ -58,13 +58,12 @@ export default function Page() {
           <div className="wrap">
             <h2>Explore this Example Project</h2>
             <p>
-              This headless example project uses{' '}
-              <a href="https://nextjs.org/">Next.js</a>,{' '}
-              <a href="https://graphql.org/">GraphQL</a>,{' '}
-              <a href="https://gqty.dev">GQty</a> and the{' '}
-              <a href="https://github.com/wpengine/faustjs">
-                WP&nbsp;Engine headless packages
-              </a>{' '}
+              This herpa derp derp  uses 
+
+{' '}<img src="/images/wall.png" width="500"></img>  {' '}
+{' '}<img src="/images/shake.jpeg" width="500"></img>  {' '}
+{' '}<img src="/images/fine.jpg" width="500"></img>  {' '}
+{' '}<img src="/images/1.jpeg" width="500"></img>  {' '}
               for WordPress integration. Dive in and edit this template at{' '}
               <code>src/pages/index.tsx</code> or discover more below.
             </p>
